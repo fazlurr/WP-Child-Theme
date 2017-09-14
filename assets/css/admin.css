@@ -1,0 +1,8 @@
+.option-input,
+.option-textarea {
+	width: 100%;
+}
+.option-textarea {
+	min-height: 150px;
+	resize: none;
+}

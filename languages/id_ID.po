@@ -1,0 +1,1623 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Agrotech\n"
+"POT-Creation-Date: 2017-02-04 04:20+0700\n"
+"PO-Revision-Date: 2017-02-04 04:22+0700\n"
+"Last-Translator: \n"
+"Language-Team: Agrotech Team <admin@agrotech.com>\n"
+"Language: id_ID\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: agrotech\n"
+"X-Poedit-SearchPath-1: storefront\n"
+
+#: agrotech/comments.php:38 agrotech/comments.php:56 storefront/comments.php:38
+#: storefront/comments.php:56
+msgid "&larr; Older Comments"
+msgstr "&larr; Komentar Lama"
+
+#: agrotech/comments.php:39 agrotech/comments.php:57 storefront/comments.php:39
+#: storefront/comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr "Komentar Terbaru &rarr;"
+
+#: agrotech/content-download.php:26 agrotech/content-single-download.php:26
+#: agrotech/content-single-solution.php:26
+#: agrotech/functions/custom-post-type.php:73
+#: agrotech/woocommerce/emails/plain/email-order-items.php:60
+#: agrotech/woocommerce/myaccount/downloads.php:75
+msgid "Download"
+msgstr "Unduh"
+
+#: agrotech/content-download.php:32 agrotech/content-homepage.php:96
+msgid "Sorry, no downloads available"
+msgstr "Maaf, tidak ada unduhan tersedia"
+
+#: agrotech/content-homepage.php:15
+msgid "Continue Reading"
+msgstr "Baca Selanjutnya"
+
+#: agrotech/content-homepage.php:48
+msgid "See More"
+msgstr "Selengkapnya"
+
+#: agrotech/content-homepage.php:55
+msgid "Sorry, no products available"
+msgstr "Maaf, tidak ada produk yang tersedia"
+
+#: agrotech/content-homepage.php:60
+msgid "See All Products"
+msgstr "Lihat Semua Produk"
+
+#: agrotech/content-homepage.php:100
+msgid "See All Downloads"
+msgstr "Lihat Semua Unduhan"
+
+#: agrotech/content-none.php:20 storefront/content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: agrotech/content-solutions.php:41
+msgid "Sorry, no solutions available"
+msgstr "Maaf, tidak ada solusi yang tersedia"
+
+#: agrotech/functions/custom-post-type.php:10
+#: agrotech/functions/custom-post-type.php:11
+msgid "Slides"
+msgstr ""
+
+#: agrotech/functions/custom-post-type.php:12
+msgid "Parent Slide:"
+msgstr ""
+
+#: agrotech/functions/custom-post-type.php:13
+msgid "All Slides"
+msgstr ""
+
+#: agrotech/functions/custom-post-type.php:14
+msgid "Add New Slide"
+msgstr ""
+
+#: agrotech/functions/custom-post-type.php:15
+#: agrotech/functions/custom-post-type.php:63
+#: agrotech/functions/custom-post-type.php:111
+#: agrotech/functions/custom-post-type.php:159
+msgid "Add New"
+msgstr "Tambah Baru"
+
+#: agrotech/functions/custom-post-type.php:16
+msgid "New Slide"
+msgstr ""
+
+#: agrotech/functions/custom-post-type.php:17
+msgid "Edit Slide"
+msgstr ""
+
+#: agrotech/functions/custom-post-type.php:18
+msgid "Update Slide"
+msgstr ""
+
+#: agrotech/functions/custom-post-type.php:19
+msgid "View Slide"
+msgstr ""
+
+#: agrotech/functions/custom-post-type.php:20
+msgid "Search Slide"
+msgstr ""
+
+#: agrotech/functions/custom-post-type.php:21
+#: agrotech/functions/custom-post-type.php:69
+#: agrotech/functions/custom-post-type.php:117
+#: agrotech/functions/custom-post-type.php:165
+msgid "Not found"
+msgstr "Tidak ditemukan"
+
+#: agrotech/functions/custom-post-type.php:22
+#: agrotech/functions/custom-post-type.php:70
+#: agrotech/functions/custom-post-type.php:118
+#: agrotech/functions/custom-post-type.php:166
+msgid "Not found in Trash"
+msgstr "Tidak ditemukan di Tempat Sampah"
+
+#: agrotech/functions/custom-post-type.php:25
+msgid "Slide"
+msgstr ""
+
+#: agrotech/functions/custom-post-type.php:26
+msgid "Slide Image"
+msgstr ""
+
+#: agrotech/functions/custom-post-type.php:58
+#: agrotech/functions/custom-post-type.php:59
+msgid "Downloads"
+msgstr "Unduhan"
+
+#: agrotech/functions/custom-post-type.php:60
+msgid "Parent Download:"
+msgstr ""
+
+#: agrotech/functions/custom-post-type.php:61
+msgid "All Downloads"
+msgstr "Semua Unduhan"
+
+#: agrotech/functions/custom-post-type.php:62
+msgid "Add New Download"
+msgstr ""
+
+#: agrotech/functions/custom-post-type.php:64
+msgid "New Download"
+msgstr ""
+
+#: agrotech/functions/custom-post-type.php:65
+msgid "Edit Download"
+msgstr ""
+
+#: agrotech/functions/custom-post-type.php:66
+msgid "Update Download"
+msgstr ""
+
+#: agrotech/functions/custom-post-type.php:67
+msgid "View Download"
+msgstr ""
+
+#: agrotech/functions/custom-post-type.php:68
+msgid "Search Download"
+msgstr ""
+
+#: agrotech/functions/custom-post-type.php:74
+msgid "Download Image"
+msgstr ""
+
+#: agrotech/functions/custom-post-type.php:106
+#: agrotech/functions/custom-post-type.php:107
+msgid "Solutions"
+msgstr ""
+
+#: agrotech/functions/custom-post-type.php:108
+msgid "Parent Solution:"
+msgstr ""
+
+#: agrotech/functions/custom-post-type.php:109
+msgid "All Solutions"
+msgstr ""
+
+#: agrotech/functions/custom-post-type.php:110
+msgid "Add New Solution"
+msgstr ""
+
+#: agrotech/functions/custom-post-type.php:112
+msgid "New Solution"
+msgstr ""
+
+#: agrotech/functions/custom-post-type.php:113
+msgid "Edit Solution"
+msgstr ""
+
+#: agrotech/functions/custom-post-type.php:114
+msgid "Update Solution"
+msgstr ""
+
+#: agrotech/functions/custom-post-type.php:115
+msgid "View Solution"
+msgstr ""
+
+#: agrotech/functions/custom-post-type.php:116
+msgid "Search Solution"
+msgstr ""
+
+#: agrotech/functions/custom-post-type.php:121
+msgid "Solution"
+msgstr ""
+
+#: agrotech/functions/custom-post-type.php:122
+msgid "Solution Image"
+msgstr ""
+
+#: agrotech/functions/custom-post-type.php:154
+#: agrotech/functions/custom-post-type.php:155
+msgid "Payments"
+msgstr "Pembayaran"
+
+#: agrotech/functions/custom-post-type.php:156
+msgid "Parent Payment:"
+msgstr ""
+
+#: agrotech/functions/custom-post-type.php:157
+msgid "All Payments"
+msgstr ""
+
+#: agrotech/functions/custom-post-type.php:158
+msgid "Add New Payment"
+msgstr ""
+
+#: agrotech/functions/custom-post-type.php:160
+msgid "New Payment"
+msgstr ""
+
+#: agrotech/functions/custom-post-type.php:161
+msgid "Edit Payment"
+msgstr ""
+
+#: agrotech/functions/custom-post-type.php:162
+msgid "Update Payment"
+msgstr ""
+
+#: agrotech/functions/custom-post-type.php:163
+msgid "View Payment"
+msgstr "Lihat pembayaran"
+
+#: agrotech/functions/custom-post-type.php:164
+msgid "Search Payment"
+msgstr "Cari pembayaran"
+
+#: agrotech/functions/custom-post-type.php:169
+msgid "Payment"
+msgstr "Pembayaran"
+
+#: agrotech/functions/custom-post-type.php:170
+msgid "Payment Image"
+msgstr ""
+
+#: agrotech/functions/custom-theme.php:150
+msgid "Sidebar Shop"
+msgstr ""
+
+#: agrotech/functions/custom-theme.php:163
+msgid "Sidebar News"
+msgstr ""
+
+#: agrotech/inc/template-filters.php:8
+msgid "Buy"
+msgstr "Beli"
+
+#: agrotech/inc/template-functions.php:183
+#: agrotech/woocommerce/order/form-tracking.php:31
+msgid "Order ID"
+msgstr "ID Pesanan"
+
+#: agrotech/inc/template-functions.php:187
+msgid "Account Name"
+msgstr "Nama Pemilik Akun"
+
+#: agrotech/inc/template-functions.php:191
+#: agrotech/woocommerce/single-product-reviews.php:75
+msgid "Email"
+msgstr "Email"
+
+#: agrotech/inc/template-functions.php:195
+msgid "Transfer to"
+msgstr "Transfer ke"
+
+#: agrotech/inc/template-functions.php:201
+msgid "Transfer Date"
+msgstr "Tanggal Transfer"
+
+#: agrotech/inc/template-functions.php:205
+msgid "Transfer Amount"
+msgstr "Jumlah Transfer"
+
+#: agrotech/inc/template-functions.php:209
+msgid "Transfer Receipt"
+msgstr "Bukti Transfer"
+
+#: agrotech/inc/template-functions.php:213
+msgid "Notes"
+msgstr "Catatan"
+
+#: agrotech/inc/template-functions.php:216
+msgid "Send"
+msgstr "Kirim"
+
+#: agrotech/inc/template-functions.php:231
+#, php-format
+msgid ""
+"Once you make the payment, please confirm at <a href=\"%s?order_id=%d\" "
+"class=\"payment-notification__link\">Payment Confirmation »</a>"
+msgstr ""
+"Setelah melakukan pembayaran, mohon konfirmasi di <a href=\"%s?order_id=%d\" "
+"class=\"payment-notification__link\">Konfirmasi Pembayaran »</a>"
+
+#: agrotech/inc/template-functions.php:248
+msgid "Once you make your payment, please confirm at link below"
+msgstr ""
+"Setelah Anda melakukan pembayaran harap melakukan konfirmasi pembayaran "
+"melalui link di bawah ini"
+
+#: agrotech/inc/template-functions.php:249
+#, php-format
+msgid "<a href=\"%s?order_id=%d\" class=\"button\">Payment Confirmation »</a>"
+msgstr ""
+"<a href=\"%s?order_id=%d\" class=\"button\">Konfirmasi Pembayaran »</a>"
+
+#: agrotech/inc/template-functions.php:274
+msgid "Languages"
+msgstr "Bahasa"
+
+#: agrotech/inc/template-functions.php:369
+#: storefront/inc/storefront-template-functions.php:377
+#, php-format
+msgid "Continue reading %s"
+msgstr "Baca selanjutnya %s"
+
+#: agrotech/inc/template-functions.php:385
+#: storefront/inc/storefront-template-functions.php:322
+#: storefront/inc/storefront-template-functions.php:385
+msgid "Pages:"
+msgstr "Halaman:"
+
+#: agrotech/inc/template-functions.php:409
+#: storefront/inc/storefront-template-functions.php:409
+msgid "Written by"
+msgstr "Ditulis oleh"
+
+#: agrotech/inc/template-functions.php:415
+#: agrotech/inc/template-functions.php:428
+#: storefront/inc/storefront-template-functions.php:415
+#: storefront/inc/storefront-template-functions.php:428
+msgid ", "
+msgstr ""
+
+#: agrotech/inc/template-functions.php:420
+#: storefront/inc/storefront-template-functions.php:420
+msgid "Posted in"
+msgstr ""
+
+#: agrotech/inc/template-functions.php:433
+#: storefront/inc/storefront-template-functions.php:433
+msgid "Tagged"
+msgstr ""
+
+#: agrotech/inc/template-functions.php:443
+#: storefront/inc/storefront-template-functions.php:443
+msgid "Comments"
+msgstr ""
+
+#: agrotech/inc/template-functions.php:444
+#: storefront/inc/storefront-template-functions.php:444
+msgid "Leave a comment"
+msgstr ""
+
+#: agrotech/inc/template-functions.php:444
+#: storefront/inc/storefront-template-functions.php:444
+msgid "1 Comment"
+msgstr ""
+
+#: agrotech/inc/template-functions.php:444
+#: storefront/inc/storefront-template-functions.php:444
+msgid "% Comments"
+msgstr ""
+
+#: agrotech/woocommerce/auth/form-grant-access.php:25
+#: agrotech/woocommerce/auth/form-login.php:27
+#, php-format
+msgid "%s would like to connect to your store"
+msgstr ""
+
+#: agrotech/woocommerce/auth/form-grant-access.php:29
+#, php-format
+msgid ""
+"This will give \"%s\" <strong>%s</strong> access which will allow it to:"
+msgstr ""
+
+#: agrotech/woocommerce/auth/form-grant-access.php:39
+#, php-format
+msgid "Logged in as %s"
+msgstr "Masuk sebagai %s"
+
+#: agrotech/woocommerce/auth/form-grant-access.php:39
+msgid "Logout"
+msgstr "Keluar"
+
+#: agrotech/woocommerce/auth/form-grant-access.php:43
+msgid "Approve"
+msgstr "Setuju"
+
+#: agrotech/woocommerce/auth/form-grant-access.php:44
+msgid "Deny"
+msgstr "Tolak"
+
+#: agrotech/woocommerce/auth/form-login.php:31
+#, php-format
+msgid ""
+"To connect to %1$s you need to be logged in. Log in to your store below, or "
+"%2$scancel and return to %1$s%3$s"
+msgstr ""
+
+#: agrotech/woocommerce/auth/form-login.php:35
+#: agrotech/woocommerce/myaccount/form-login.php:44
+msgid "Username or email address"
+msgstr "Username atau alamat email"
+
+#: agrotech/woocommerce/auth/form-login.php:39
+#: agrotech/woocommerce/global/form-login.php:39
+#: agrotech/woocommerce/myaccount/form-login.php:48
+#: agrotech/woocommerce/myaccount/form-login.php:98
+msgid "Password"
+msgstr "Password"
+
+#: agrotech/woocommerce/auth/header.php:29
+msgid "Application Authentication Request"
+msgstr "Permintaan Otentikasi Aplikasi"
+
+#: agrotech/woocommerce/cart/cart-empty.php:28
+msgid "Your cart is currently empty."
+msgstr "Troli kamu masih kosong."
+
+#: agrotech/woocommerce/cart/cart-empty.php:36
+msgid "Return To Shop"
+msgstr "Kembali Belanja"
+
+#: agrotech/woocommerce/cart/cart-shipping.php:48
+msgid "Shipping costs will be calculated once you have provided your address."
+msgstr "Biaya pengiriman akan dihitung setelah mencantumkan alamat kamu."
+
+#: agrotech/woocommerce/cart/cart-shipping.php:50
+msgid ""
+"There are no shipping methods available. Please double check your address, "
+"or contact us if you need any help."
+msgstr ""
+"Tidak ada metode pengiriman yang tersedia. Silahkan mengecek kembali alamat "
+"kamu, atau hubungi kami jika memerlukan bantuan."
+
+#: agrotech/woocommerce/cart/cart-totals.php:28
+msgid "Cart Totals"
+msgstr "Total Keranjang"
+
+#: agrotech/woocommerce/cart/cart-totals.php:33
+#: agrotech/woocommerce/checkout/review-order.php:59
+msgid "Subtotal"
+msgstr "Subtotal"
+
+#: agrotech/woocommerce/cart/cart-totals.php:55
+msgid "Shipping"
+msgstr "Pengiriman"
+
+#: agrotech/woocommerce/cart/cart-totals.php:71
+#, php-format
+msgid "estimated for %s"
+msgstr "estimasi untuk %s"
+
+#: agrotech/woocommerce/cart/cart-totals.php:92
+#: agrotech/woocommerce/cart/cart.php:39 agrotech/woocommerce/cart/cart.php:120
+#: agrotech/woocommerce/cart/mini-cart.php:80
+#: agrotech/woocommerce/checkout/review-order.php:27
+#: agrotech/woocommerce/checkout/review-order.php:106
+#: agrotech/woocommerce/myaccount/my-orders.php:16
+#: agrotech/woocommerce/order/order-details.php:33
+msgid "Total"
+msgstr "Total"
+
+#: agrotech/woocommerce/cart/cart.php:36 agrotech/woocommerce/cart/cart.php:79
+#: agrotech/woocommerce/checkout/form-pay.php:29
+#: agrotech/woocommerce/checkout/review-order.php:26
+#: agrotech/woocommerce/emails/email-order-details.php:34
+#: agrotech/woocommerce/order/order-details.php:32
+msgid "Product"
+msgstr "Produk"
+
+#: agrotech/woocommerce/cart/cart.php:37 agrotech/woocommerce/cart/cart.php:97
+#: agrotech/woocommerce/emails/email-order-details.php:36
+msgid "Price"
+msgstr "Harga"
+
+#: agrotech/woocommerce/cart/cart.php:38 agrotech/woocommerce/cart/cart.php:103
+#: agrotech/woocommerce/emails/email-order-details.php:35
+msgid "Quantity"
+msgstr "Jumlah"
+
+#: agrotech/woocommerce/cart/cart.php:60
+#: agrotech/woocommerce/cart/mini-cart.php:49
+msgid "Remove this item"
+msgstr "Hapus item ini"
+
+#: agrotech/woocommerce/cart/cart.php:138
+msgid "Coupon:"
+msgstr "Kupon:"
+
+#: agrotech/woocommerce/cart/cross-sells.php:47
+msgid "You may be interested in&hellip;"
+msgstr "Mungkin kamu tertarik pada&hellip;"
+
+#: agrotech/woocommerce/cart/mini-cart.php:72
+msgid "No products in the cart."
+msgstr "Tidak ada produk di keranjang."
+
+#: agrotech/woocommerce/cart/mini-cart.php:85
+msgid "View Cart"
+msgstr "Lihat Keranjang"
+
+#: agrotech/woocommerce/cart/mini-cart.php:86
+msgid "Checkout"
+msgstr "Checkout"
+
+#: agrotech/woocommerce/cart/proceed-to-checkout-button.php:27
+msgid "Proceed to Checkout"
+msgstr "Ke checkout"
+
+#: agrotech/woocommerce/cart/shipping-calculator.php:33
+msgid "Calculate Shipping"
+msgstr "Hitung pengiriman"
+
+#: agrotech/woocommerce/cart/shipping-calculator.php:39
+msgid "Select a country&hellip;"
+msgstr "Pilih negara"
+
+#: agrotech/woocommerce/cart/shipping-calculator.php:63
+msgid "Select a state&hellip;"
+msgstr "Pilih provinsi"
+
+#: agrotech/woocommerce/cart/shipping-calculator.php:96
+msgid "Update Totals"
+msgstr "Perbarui total"
+
+#: agrotech/woocommerce/checkout/cart-errors.php:27
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
+msgstr ""
+"Ada masalah dengan barang di keranjang anda. Mohon kembali ke halaman Cart "
+"dan perbaiki masalah sebelum checkout"
+
+#: agrotech/woocommerce/checkout/cart-errors.php:31
+msgid "Return To Cart"
+msgstr "Kembali ke Cart"
+
+#: agrotech/woocommerce/checkout/form-billing.php:29
+msgid "Billing &amp; Shipping"
+msgstr "Penagihan &amp; Pengiriman"
+
+#: agrotech/woocommerce/checkout/form-billing.php:33
+msgid "Billing Details"
+msgstr "Detail Penagihan"
+
+#: agrotech/woocommerce/checkout/form-billing.php:52
+msgid "Create an account?"
+msgstr "Buat akun baru?"
+
+#: agrotech/woocommerce/checkout/form-billing.php:63
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+"Buat akun dengan memasukkan informasi di bawah. Jika anda telah terdaftar "
+"sebagai user, harap login di bagian atas halaman ini."
+
+#: agrotech/woocommerce/checkout/form-checkout.php:29
+msgid "You must be logged in to checkout."
+msgstr "Anda harus login untuk checkout"
+
+#: agrotech/woocommerce/checkout/form-checkout.php:55
+msgid "Your order"
+msgstr "Pesanan anda"
+
+#: agrotech/woocommerce/checkout/form-coupon.php:28
+msgid "Have a coupon?"
+msgstr "Punya kupon?"
+
+#: agrotech/woocommerce/checkout/form-coupon.php:28
+msgid "Click here to enter your code"
+msgstr "Klik di sini untuk memasukkan kode anda"
+
+#: agrotech/woocommerce/checkout/form-login.php:27
+msgid "Returning customer?"
+msgstr "Sudah punya akun?"
+
+#: agrotech/woocommerce/checkout/form-login.php:28
+msgid "Click here to login"
+msgstr "Klik di sini untuk login"
+
+#: agrotech/woocommerce/checkout/form-login.php:35
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer, please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+"Jika Anda telah berbelanja dengan kami sebelumnya, masukkan rincian Anda di "
+"kotak di bawah. Jika Anda adalah pelanggan baru, lanjutkan ke Billing &amp; "
+"bagian pengiriman."
+
+#: agrotech/woocommerce/checkout/form-pay.php:30
+msgid "Qty"
+msgstr "Jumlah"
+
+#: agrotech/woocommerce/checkout/form-pay.php:31
+msgid "Totals"
+msgstr "Total"
+
+#: agrotech/woocommerce/checkout/form-pay.php:79
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+"Maaf, tampaknya tidak ada metode pembayaran yang tersedia untuk lokasi Anda. "
+"Silakan hubungi kami jika Anda memerlukan bantuan atau ingin membuat "
+"pengaturan alternatif."
+
+#: agrotech/woocommerce/checkout/form-shipping.php:28
+msgid "Ship to a different address?"
+msgstr "Kirim ke alamat lain?"
+
+#: agrotech/woocommerce/checkout/form-shipping.php:54
+#: agrotech/woocommerce/single-product/tabs/additional-information.php:25
+msgid "Additional Information"
+msgstr "Informasi Tambahan"
+
+#: agrotech/woocommerce/checkout/payment.php:35
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+"Maaf, tampaknya tidak ada metode pembayaran yang tersedia bagi negara Anda. "
+"Silakan hubungi kami jika Anda memerlukan bantuan atau ingin membuat "
+"pengaturan alternatif."
+
+#: agrotech/woocommerce/checkout/payment.php:35
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: agrotech/woocommerce/checkout/payment.php:42
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+
+#: agrotech/woocommerce/checkout/terms.php:17
+#, php-format
+msgid ""
+"I&rsquo;ve read and accept the <a href=\"%s\" target=\"_blank\">terms &amp; "
+"conditions</a>"
+msgstr ""
+
+#: agrotech/woocommerce/checkout/thankyou.php:27
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction. Please attempt your purchase again."
+msgstr ""
+
+#: agrotech/woocommerce/checkout/thankyou.php:30
+#: agrotech/woocommerce/myaccount/my-orders.php:72
+#: agrotech/woocommerce/myaccount/orders.php:68
+msgid "Pay"
+msgstr "Bayar"
+
+#: agrotech/woocommerce/checkout/thankyou.php:32
+msgid "My Account"
+msgstr "Akun Saya"
+
+#: agrotech/woocommerce/checkout/thankyou.php:38
+#: agrotech/woocommerce/checkout/thankyou.php:69
+msgid "Thank you. Your order has been received."
+msgstr "Terima kasih. Pesanan anda telah kami terima."
+
+#: agrotech/woocommerce/checkout/thankyou.php:42
+msgid "Order Number:"
+msgstr "Nomor Pesanan:"
+
+#: agrotech/woocommerce/checkout/thankyou.php:46
+msgid "Date:"
+msgstr "Tanggal:"
+
+#: agrotech/woocommerce/checkout/thankyou.php:50
+msgid "Total:"
+msgstr "Total:"
+
+#: agrotech/woocommerce/checkout/thankyou.php:55
+msgid "Payment Method:"
+msgstr "Metode Pembayaran:"
+
+#: agrotech/woocommerce/emails/admin-cancelled-order.php:28
+#: agrotech/woocommerce/emails/plain/admin-cancelled-order.php:25
+#, php-format
+msgid "The order #%d from %s has been cancelled. The order was as follows:"
+msgstr ""
+
+#: agrotech/woocommerce/emails/admin-failed-order.php:28
+#: agrotech/woocommerce/emails/plain/admin-failed-order.php:25
+#, php-format
+msgid "Payment for order #%d from %s has failed. The order was as follows:"
+msgstr ""
+
+#: agrotech/woocommerce/emails/admin-new-order.php:28
+#, php-format
+msgid "You have received an order from %s. The order is as follows:"
+msgstr ""
+
+#: agrotech/woocommerce/emails/customer-completed-order.php:28
+#: agrotech/woocommerce/emails/plain/customer-completed-order.php:25
+#, php-format
+msgid ""
+"Hi there. Your recent order on %s has been completed. Your order details are "
+"shown below for your reference:"
+msgstr ""
+
+#: agrotech/woocommerce/emails/customer-invoice.php:29
+#: agrotech/woocommerce/emails/plain/customer-invoice.php:26
+#, php-format
+msgid ""
+"An order has been created for you on %s. To pay for this order please use "
+"the following link: %s"
+msgstr ""
+
+#: agrotech/woocommerce/emails/customer-invoice.php:29
+msgid "pay"
+msgstr "bayar"
+
+#: agrotech/woocommerce/emails/customer-new-account.php:27
+#: agrotech/woocommerce/emails/plain/customer-new-account.php:25
+#, php-format
+msgid ""
+"Thanks for creating an account on %s. Your username is <strong>%s</strong>"
+msgstr ""
+
+#: agrotech/woocommerce/emails/customer-new-account.php:31
+#, php-format
+msgid "Your password has been automatically generated: <strong>%s</strong>"
+msgstr ""
+
+#: agrotech/woocommerce/emails/customer-new-account.php:35
+#: agrotech/woocommerce/emails/plain/customer-new-account.php:30
+#, php-format
+msgid ""
+"You can access your account area to view your orders and change your "
+"password here: %s."
+msgstr ""
+
+#: agrotech/woocommerce/emails/customer-note.php:28
+#: agrotech/woocommerce/emails/plain/customer-note.php:25
+msgid "Hello, a note has just been added to your order:"
+msgstr ""
+
+#: agrotech/woocommerce/emails/customer-note.php:32
+#: agrotech/woocommerce/emails/plain/customer-note.php:33
+msgid "For your reference, your order details are shown below."
+msgstr ""
+
+#: agrotech/woocommerce/emails/customer-on-hold-order.php:28
+#: agrotech/woocommerce/emails/plain/customer-on-hold-order.php:25
+msgid ""
+"Your order is on-hold until we confirm payment has been received. Your order "
+"details are shown below for your reference:"
+msgstr ""
+"Pesanan Anda sudah kami terima dan akan kami proses. Rincian pesanan Anda "
+"ditampilkan dibawah ini sebagai referensi:"
+
+#: agrotech/woocommerce/emails/customer-processing-order.php:28
+#: agrotech/woocommerce/emails/plain/customer-processing-order.php:25
+msgid ""
+"Your order has been received and is now being processed. Your order details "
+"are shown below for your reference:"
+msgstr ""
+"Pesanan Anda telah diterima dan sekarang sedang diproses. detail pesanan "
+"Anda ditampilkan di bawah untuk referensi Anda:"
+
+#: agrotech/woocommerce/emails/customer-refunded-order.php:30
+#, php-format
+msgid "Hi there. Your order on %s has been partially refunded."
+msgstr ""
+
+#: agrotech/woocommerce/emails/customer-refunded-order.php:33
+#, php-format
+msgid "Hi there. Your order on %s has been refunded."
+msgstr ""
+
+#: agrotech/woocommerce/emails/customer-reset-password.php:27
+#: agrotech/woocommerce/emails/plain/customer-reset-password.php:25
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: agrotech/woocommerce/emails/customer-reset-password.php:28
+#: agrotech/woocommerce/emails/plain/customer-reset-password.php:27
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: agrotech/woocommerce/emails/customer-reset-password.php:29
+#: agrotech/woocommerce/emails/plain/customer-reset-password.php:28
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: agrotech/woocommerce/emails/customer-reset-password.php:30
+#: agrotech/woocommerce/emails/plain/customer-reset-password.php:29
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: agrotech/woocommerce/emails/customer-reset-password.php:33
+msgid "Click here to reset your password"
+msgstr "Klik di sini untuk mengatur ulang password anda"
+
+#: agrotech/woocommerce/emails/email-addresses.php:26
+#: agrotech/woocommerce/emails/plain/email-addresses.php:23
+msgid "Billing address"
+msgstr "Alamat Penagihan"
+
+#: agrotech/woocommerce/emails/email-addresses.php:32
+#: agrotech/woocommerce/emails/plain/email-addresses.php:27
+msgid "Shipping address"
+msgstr "Alamat Pengiriman"
+
+#: agrotech/woocommerce/emails/email-customer-details.php:26
+#: agrotech/woocommerce/emails/plain/email-customer-details.php:25
+msgid "Customer details"
+msgstr "Detail Pelanggan"
+
+#: agrotech/woocommerce/emails/email-order-details.php:26
+#: agrotech/woocommerce/emails/email-order-details.php:28
+#, php-format
+msgid "Order #%s"
+msgstr "Pesanan #%s"
+
+#: agrotech/woocommerce/emails/plain/admin-new-order.php:25
+#, php-format
+msgid "You have received an order from %s."
+msgstr ""
+
+#: agrotech/woocommerce/emails/plain/customer-new-account.php:28
+#, php-format
+msgid "Your password is <strong>%s</strong>."
+msgstr ""
+
+#: agrotech/woocommerce/emails/plain/customer-refunded-order.php:25
+#, php-format
+msgid ""
+"Hi there. Your order on %s has been refunded. Your order details are shown "
+"below for your reference:"
+msgstr ""
+
+#: agrotech/woocommerce/emails/plain/email-order-details.php:25
+#, php-format
+msgid "Order number: %s"
+msgstr "Nomor Pesanan: %s"
+
+#: agrotech/woocommerce/emails/plain/email-order-details.php:26
+msgid "jS F Y"
+msgstr ""
+
+#: agrotech/woocommerce/emails/plain/email-order-details.php:43
+#, php-format
+msgid "View order: %s"
+msgstr "Lihat pesanan: %s"
+
+#: agrotech/woocommerce/emails/plain/email-order-items.php:44
+#, php-format
+msgid "Quantity: %s"
+msgstr "Jumlah: %s"
+
+#: agrotech/woocommerce/emails/plain/email-order-items.php:47
+#, php-format
+msgid "Cost: %s"
+msgstr "Biaya: %s"
+
+#: agrotech/woocommerce/emails/plain/email-order-items.php:58
+#, php-format
+msgid "Download %d"
+msgstr "Unduh %d"
+
+#: agrotech/woocommerce/global/form-login.php:35
+#: agrotech/woocommerce/myaccount/form-lost-password.php:30
+msgid "Username or email"
+msgstr "Username atau Email"
+
+#: agrotech/woocommerce/global/form-login.php:51
+#: agrotech/woocommerce/myaccount/form-login.php:58
+msgid "Remember me"
+msgstr "Ingat saya"
+
+#: agrotech/woocommerce/global/form-login.php:55
+#: agrotech/woocommerce/myaccount/form-login.php:62
+msgid "Lost your password?"
+msgstr "Lupa password?"
+
+#: agrotech/woocommerce/loop/no-products-found.php:24
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: agrotech/woocommerce/loop/sale-flash.php:28
+#: agrotech/woocommerce/single-product/sale-flash.php:28
+msgid "Sale!"
+msgstr "Promo!"
+
+#: agrotech/woocommerce/myaccount/downloads.php:59
+msgid "&infin;"
+msgstr ""
+
+#: agrotech/woocommerce/myaccount/downloads.php:67
+msgid "Never"
+msgstr "Tidak Pernah"
+
+#: agrotech/woocommerce/myaccount/form-edit-account.php:30
+msgid "First name"
+msgstr "Nama depan"
+
+#: agrotech/woocommerce/myaccount/form-edit-account.php:34
+msgid "Last name"
+msgstr "Nama belakang"
+
+#: agrotech/woocommerce/myaccount/form-edit-account.php:40
+#: agrotech/woocommerce/myaccount/form-login.php:91
+msgid "Email address"
+msgstr "Alamat Email"
+
+#: agrotech/woocommerce/myaccount/form-edit-account.php:45
+msgid "Password Change"
+msgstr "Ubah Password"
+
+#: agrotech/woocommerce/myaccount/form-edit-account.php:48
+msgid "Current Password (leave blank to leave unchanged)"
+msgstr "Password Saat Ini (jika tidak mau diubah , biarkan kosong)"
+
+#: agrotech/woocommerce/myaccount/form-edit-account.php:52
+msgid "New Password (leave blank to leave unchanged)"
+msgstr "Password Baru (jika tidak mau diubah , biarkan kosong)"
+
+#: agrotech/woocommerce/myaccount/form-edit-account.php:56
+msgid "Confirm New Password"
+msgstr "Konfirmasi Password Baru"
+
+#: agrotech/woocommerce/myaccount/form-edit-address.php:23
+#: agrotech/woocommerce/myaccount/my-address.php:27
+#: agrotech/woocommerce/myaccount/my-address.php:32
+#: agrotech/woocommerce/order/order-details-customer.php:58
+msgid "Billing Address"
+msgstr "Alamat Penagihan"
+
+#: agrotech/woocommerce/myaccount/form-edit-address.php:23
+#: agrotech/woocommerce/myaccount/my-address.php:28
+#: agrotech/woocommerce/order/order-details-customer.php:69
+msgid "Shipping Address"
+msgstr "Alamat Pengiriman"
+
+#: agrotech/woocommerce/myaccount/form-login.php:37
+msgid "Login"
+msgstr "Login"
+
+#: agrotech/woocommerce/myaccount/form-login.php:75
+msgid "Register"
+msgstr "Daftar"
+
+#: agrotech/woocommerce/myaccount/form-login.php:84
+msgid "Username"
+msgstr "Username"
+
+#: agrotech/woocommerce/myaccount/form-login.php:105
+msgid "Anti-spam"
+msgstr ""
+
+#: agrotech/woocommerce/myaccount/form-lost-password.php:27
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: agrotech/woocommerce/myaccount/form-reset-password.php:27
+msgid "Enter a new password below."
+msgstr "Masukkan password baru di bawah."
+
+#: agrotech/woocommerce/myaccount/form-reset-password.php:30
+msgid "New password"
+msgstr "Password Baru"
+
+#: agrotech/woocommerce/myaccount/form-reset-password.php:34
+msgid "Re-enter new password"
+msgstr "Masukkan Ulang Password Baru"
+
+#: agrotech/woocommerce/myaccount/lost-password-confirmation.php:24
+msgid "Password reset email has been sent."
+msgstr "Email untuk mengubah password telah terkirim."
+
+#: agrotech/woocommerce/myaccount/lost-password-confirmation.php:27
+msgid ""
+"A password reset email has been sent to the email address on file for your "
+"account, but may take several minutes to show up in your inbox. Please wait "
+"at least 10 minutes before attempting another reset."
+msgstr ""
+"Email untuk mengubah password telah terkirim ke alamat email yang tertera di "
+"akun anda, mungkin butuh beberapa menit hingga email masuk. Mohon tunggu "
+"setidaknya 10 menit sebelum mencoba mengubah password lagi."
+
+#: agrotech/woocommerce/myaccount/my-address.php:41
+msgid "The following addresses will be used on the checkout page by default."
+msgstr "Alamat ini akan digunakan di halaman checkout secara default."
+
+#: agrotech/woocommerce/myaccount/my-address.php:51
+#: storefront/inc/storefront-template-functions.php:64
+msgid "Edit"
+msgstr "Ubah"
+
+#: agrotech/woocommerce/myaccount/my-address.php:70
+msgid "You have not set up this type of address yet."
+msgstr "Kamu belum mengatur jenis alamat ini."
+
+#: agrotech/woocommerce/myaccount/my-downloads.php:30
+msgid "Available Downloads"
+msgstr "Unduhan Tersedia"
+
+#: agrotech/woocommerce/myaccount/my-orders.php:13
+msgid "Order"
+msgstr "Pesanan"
+
+#: agrotech/woocommerce/myaccount/my-orders.php:14
+msgid "Date"
+msgstr "Tanggal"
+
+#: agrotech/woocommerce/myaccount/my-orders.php:15
+msgid "Status"
+msgstr "Status"
+
+#: agrotech/woocommerce/myaccount/my-orders.php:30
+msgid "Recent Orders"
+msgstr "Pesanan Terbaru"
+
+#: agrotech/woocommerce/myaccount/my-orders.php:76
+#: agrotech/woocommerce/myaccount/orders.php:72
+msgid "View"
+msgstr "Lihat"
+
+#: agrotech/woocommerce/myaccount/my-orders.php:80
+#: agrotech/woocommerce/myaccount/orders.php:76
+msgid "Cancel"
+msgstr "Batal"
+
+#: agrotech/woocommerce/myaccount/orders.php:107
+msgid "Previous"
+msgstr "Sebelumnya"
+
+#: agrotech/woocommerce/myaccount/orders.php:111
+msgid "Next"
+msgstr "Selanjutnya"
+
+#: agrotech/woocommerce/myaccount/orders.php:119
+msgid "Go Shop"
+msgstr "Belanja"
+
+#: agrotech/woocommerce/myaccount/orders.php:121
+msgid "No order has been made yet."
+msgstr "Belum ada pesanan."
+
+#: agrotech/woocommerce/myaccount/payment-methods.php:51
+#, php-format
+msgid "%s ending in %s"
+msgstr ""
+
+#: agrotech/woocommerce/myaccount/view-order.php:28
+#: agrotech/woocommerce/order/tracking.php:26
+#, php-format
+msgid "Order #%1$s was placed on %2$s and is currently %3$s."
+msgstr ""
+
+#: agrotech/woocommerce/myaccount/view-order.php:36
+#: agrotech/woocommerce/order/tracking.php:34
+msgid "Order Updates"
+msgstr ""
+
+#: agrotech/woocommerce/myaccount/view-order.php:42
+#: agrotech/woocommerce/order/tracking.php:40
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr ""
+
+#: agrotech/woocommerce/order/form-tracking.php:29
+msgid ""
+"To track your order please enter your Order ID in the box below and press "
+"the \"Track\" button. This was given to you on your receipt and in the "
+"confirmation email you should have received."
+msgstr ""
+
+#: agrotech/woocommerce/order/form-tracking.php:32
+msgid "Billing Email"
+msgstr "Email Penagihan"
+
+#: agrotech/woocommerce/order/order-again.php:25
+msgid "Order Again"
+msgstr "Pesan Kembali"
+
+#: agrotech/woocommerce/order/order-details-customer.php:23
+msgid "Customer Details"
+msgstr "Detail Pelanggan"
+
+#: agrotech/woocommerce/order/order-details-customer.php:28
+msgid "Note:"
+msgstr "Catatan:"
+
+#: agrotech/woocommerce/order/order-details-customer.php:35
+msgid "Email:"
+msgstr "Email:"
+
+#: agrotech/woocommerce/order/order-details-customer.php:42
+msgid "Telephone:"
+msgstr "Telepon:"
+
+#: agrotech/woocommerce/order/order-details-customer.php:61
+#: agrotech/woocommerce/order/order-details-customer.php:72
+#: agrotech/woocommerce/single-product/meta.php:35
+msgid "N/A"
+msgstr "Tidak Tersedia"
+
+#: agrotech/woocommerce/order/order-details.php:28
+msgid "Order Details"
+msgstr "Detail Pesanan"
+
+#: agrotech/woocommerce/product-searchform.php:27
+msgid "Search for:"
+msgstr "Cari untuk:"
+
+#: agrotech/woocommerce/single-product-reviews.php:35
+msgid "Reviews"
+msgstr "Ulasan"
+
+#: agrotech/woocommerce/single-product-reviews.php:56
+msgid "There are no reviews yet."
+msgstr "Belum ada ulasan."
+
+#: agrotech/woocommerce/single-product-reviews.php:69
+msgid "Add a review"
+msgstr "Tambahkan ulasan"
+
+#: agrotech/woocommerce/single-product-reviews.php:69
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr "Jadi yang pertama mengulas &ldquo;%s&rdquo;"
+
+#: agrotech/woocommerce/single-product-reviews.php:70
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Tinggalkan balasan untuk %s"
+
+#: agrotech/woocommerce/single-product-reviews.php:73
+msgid "Name"
+msgstr "Nama"
+
+#: agrotech/woocommerce/single-product-reviews.php:78
+msgid "Submit"
+msgstr "Kirim"
+
+#: agrotech/woocommerce/single-product-reviews.php:84
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: agrotech/woocommerce/single-product-reviews.php:88
+msgid "Your Rating"
+msgstr "Penilaian Anda"
+
+#: agrotech/woocommerce/single-product-reviews.php:89
+msgid "Rate&hellip;"
+msgstr ""
+
+#: agrotech/woocommerce/single-product-reviews.php:90
+msgid "Perfect"
+msgstr ""
+
+#: agrotech/woocommerce/single-product-reviews.php:91
+msgid "Good"
+msgstr ""
+
+#: agrotech/woocommerce/single-product-reviews.php:92
+msgid "Average"
+msgstr ""
+
+#: agrotech/woocommerce/single-product-reviews.php:93
+msgid "Not that bad"
+msgstr ""
+
+#: agrotech/woocommerce/single-product-reviews.php:94
+msgid "Very Poor"
+msgstr ""
+
+#: agrotech/woocommerce/single-product-reviews.php:98
+msgid "Your Review"
+msgstr "Ulasan Anda"
+
+#: agrotech/woocommerce/single-product-reviews.php:107
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: agrotech/woocommerce/single-product/add-to-cart/variable.php:32
+msgid "This product is currently out of stock and unavailable."
+msgstr "Produk ini sedang habis dan tidak tersedia."
+
+#: agrotech/woocommerce/single-product/add-to-cart/variable.php:43
+msgid "Clear"
+msgstr "Hapus"
+
+#: agrotech/woocommerce/single-product/add-to-cart/variation.php:31
+msgid ""
+"Sorry, this product is unavailable. Please choose a different combination."
+msgstr ""
+
+#: agrotech/woocommerce/single-product/meta.php:35
+msgid "SKU:"
+msgstr ""
+
+#: agrotech/woocommerce/single-product/product-attributes.php:38
+msgid "Weight"
+msgstr "Berat"
+
+#: agrotech/woocommerce/single-product/product-attributes.php:45
+msgid "Dimensions"
+msgstr "Dimensi"
+
+#: agrotech/woocommerce/single-product/product-image.php:47
+msgid "Placeholder"
+msgstr ""
+
+#: agrotech/woocommerce/single-product/rating.php:36
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: agrotech/woocommerce/single-product/rating.php:38
+#, php-format
+msgid "out of %s5%s"
+msgstr ""
+
+#: agrotech/woocommerce/single-product/related.php:51
+msgid "Related Products"
+msgstr "Produk Terkait"
+
+#: agrotech/woocommerce/single-product/tabs/description.php:25
+msgid "Product Description"
+msgstr "Penjelasan Produk"
+
+#: agrotech/woocommerce/single-product/up-sells.php:48
+msgid "You may also like&hellip;"
+msgstr "Mungkin kamu tertarik pada&hellip;"
+
+#: storefront/inc/admin/welcome-screen/component-enhance.php:62
+msgid "Free!"
+msgstr "Gratis!"
+
+#: storefront/inc/class-storefront.php:86
+msgid "Primary Menu"
+msgstr ""
+
+#: storefront/inc/class-storefront.php:87
+msgid "Secondary Menu"
+msgstr ""
+
+#: storefront/inc/class-storefront.php:88
+msgid "Handheld Menu"
+msgstr ""
+
+#: storefront/inc/class-storefront.php:134
+msgid "Sidebar"
+msgstr ""
+
+#: storefront/inc/class-storefront.php:140
+msgid "Below Header"
+msgstr ""
+
+#: storefront/inc/class-storefront.php:142
+msgid ""
+"Widgets added to this region will appear beneath the header and above the "
+"main content."
+msgstr ""
+
+#: storefront/inc/class-storefront.php:151
+#, php-format
+msgid "Footer %d"
+msgstr ""
+
+#: storefront/inc/class-storefront.php:153
+#, php-format
+msgid "Widgetized Footer Region %d."
+msgstr ""
+
+#: storefront/inc/customizer/class-storefront-customizer.php:140
+msgid "Background"
+msgstr ""
+
+#: storefront/inc/customizer/class-storefront-customizer.php:144
+msgid "Header"
+msgstr ""
+
+#: storefront/inc/customizer/class-storefront-customizer.php:182
+msgid "Typography"
+msgstr ""
+
+#: storefront/inc/customizer/class-storefront-customizer.php:195
+#: storefront/inc/customizer/class-storefront-customizer.php:316
+msgid "Heading color"
+msgstr ""
+
+#: storefront/inc/customizer/class-storefront-customizer.php:210
+#: storefront/inc/customizer/class-storefront-customizer.php:262
+#: storefront/inc/customizer/class-storefront-customizer.php:331
+#: storefront/inc/customizer/class-storefront-customizer.php:385
+msgid "Text color"
+msgstr ""
+
+#: storefront/inc/customizer/class-storefront-customizer.php:225
+msgid "Link / accent color"
+msgstr ""
+
+#: storefront/inc/customizer/class-storefront-customizer.php:234
+msgid "Header background image"
+msgstr ""
+
+#: storefront/inc/customizer/class-storefront-customizer.php:247
+#: storefront/inc/customizer/class-storefront-customizer.php:301
+#: storefront/inc/customizer/class-storefront-customizer.php:370
+msgid "Background color"
+msgstr ""
+
+#: storefront/inc/customizer/class-storefront-customizer.php:277
+#: storefront/inc/customizer/class-storefront-customizer.php:346
+msgid "Link color"
+msgstr ""
+
+#: storefront/inc/customizer/class-storefront-customizer.php:287
+msgid "Footer"
+msgstr ""
+
+#: storefront/inc/customizer/class-storefront-customizer.php:289
+msgid "Customise the look & feel of your web site footer."
+msgstr ""
+
+#: storefront/inc/customizer/class-storefront-customizer.php:356
+msgid "Buttons"
+msgstr ""
+
+#: storefront/inc/customizer/class-storefront-customizer.php:358
+msgid "Customise the look & feel of your web site buttons."
+msgstr ""
+
+#: storefront/inc/customizer/class-storefront-customizer.php:400
+msgid "Alternate button background color"
+msgstr ""
+
+#: storefront/inc/customizer/class-storefront-customizer.php:415
+msgid "Alternate button text color"
+msgstr ""
+
+#: storefront/inc/customizer/class-storefront-customizer.php:425
+msgid "Layout"
+msgstr ""
+
+#: storefront/inc/customizer/class-storefront-customizer.php:437
+msgid "General Layout"
+msgstr ""
+
+#: storefront/inc/customizer/class-storefront-customizer.php:450
+msgid "More"
+msgstr "Selengkapnya"
+
+#: storefront/inc/customizer/class-storefront-customizer.php:460
+msgid "Looking for more options?"
+msgstr ""
+
+#: storefront/inc/storefront-template-functions.php:231
+msgid "Menu"
+msgstr ""
+
+#: storefront/inc/storefront-template-functions.php:539
+msgid "Shop by Category"
+msgstr ""
+
+#: storefront/inc/storefront-template-functions.php:580
+msgid "New In"
+msgstr ""
+
+#: storefront/inc/storefront-template-functions.php:621
+msgid "We Recommend"
+msgstr ""
+
+#: storefront/inc/storefront-template-functions.php:662
+msgid "Fan Favorites"
+msgstr ""
+
+#: storefront/inc/storefront-template-functions.php:701
+msgid "On Sale"
+msgstr ""
+
+#~ msgid ""
+#~ "Once you make the payment, please confirm at <a href=\"%s\" class="
+#~ "\"payment-notification__link\">Payment Confirmation »</a>"
+#~ msgstr ""
+#~ "Setelah Anda melakukan pembayaran, harap melakukan konfirmasi pembayaran "
+#~ "di <a href=\"%s\" class=\"payment-notification__link\">Konfirmasi "
+#~ "Pembayaran »</a>"
+
+#~ msgid "Sorry, no posts matched your criteria."
+#~ msgstr "Maaf, tidak ada artikel ditemukan"
+
+#~ msgid "Preview"
+#~ msgstr "Pratinjau"
+
+#~ msgid "Records"
+#~ msgstr "Arsip"
+
+#~ msgid "Country"
+#~ msgstr "Negara"
+
+#~ msgid "Region"
+#~ msgstr "Wilayah"
+
+#~ msgid "Detailed Information"
+#~ msgstr "Informasi Detail"
+
+#~ msgid "Wholly-Owned Subsidiaries And Joint Ventures"
+#~ msgstr "Anak Perusahaan dan Kerjasama Operasional"
+
+#~ msgid "Links"
+#~ msgstr "Tautan"
+
+#~ msgid "Products"
+#~ msgstr "Produk"
+
+#~ msgid "Parent Product:"
+#~ msgstr "Produk Induk"
+
+#~ msgid "All Products"
+#~ msgstr "Semua Produk"
+
+#~ msgid "Add New Product"
+#~ msgstr "Tambah Produk Baru"
+
+#~ msgid "New Product"
+#~ msgstr "Produk Baru"
+
+#~ msgid "Edit Product"
+#~ msgstr "Ubah Produk"
+
+#~ msgid "Update Product"
+#~ msgstr "Perbarui Produk"
+
+#~ msgid "View Product"
+#~ msgstr "Lihat Produk"
+
+#~ msgid "Search Product"
+#~ msgstr "Cari Produk"
+
+#~ msgid "Product We Handle"
+#~ msgstr "Produk Kami Tangani"
+
+#~ msgid "Industries"
+#~ msgstr "Industri"
+
+#~ msgid "Parent Industry:"
+#~ msgstr "Industri Induk"
+
+#~ msgid "All Industries"
+#~ msgstr "Semua Industri"
+
+#~ msgid "Add New Industry"
+#~ msgstr "Tambah Industri Baru"
+
+#~ msgid "New Industry"
+#~ msgstr "Industri Baru"
+
+#~ msgid "Edit Industry"
+#~ msgstr "Ubah Industri"
+
+#~ msgid "Update Industry"
+#~ msgstr "Perbarui Industri"
+
+#~ msgid "View Industry"
+#~ msgstr "Lihat Industri"
+
+#~ msgid "Search Industry"
+#~ msgstr "Cari Industri"
+
+#~ msgid "Industry"
+#~ msgstr "Industri"
+
+#~ msgid "Application Fields"
+#~ msgstr "Bidang Aplikasi"
+
+#~ msgid "Application Field"
+#~ msgstr "Bidang Aplikasi"
+
+#~ msgid "Honors"
+#~ msgstr "Penghargaan"
+
+#~ msgid "Parent Honor:"
+#~ msgstr "Penghargaan Induk"
+
+#~ msgid "All Honors"
+#~ msgstr "Semua Penghargaan"
+
+#~ msgid "Add New Honor"
+#~ msgstr "Tambah Penghargaan Baru"
+
+#~ msgid "New Honor"
+#~ msgstr "Penghargaan Baru"
+
+#~ msgid "Edit Honor"
+#~ msgstr "Ubah Penghargaan"
+
+#~ msgid "Update Honor"
+#~ msgstr "Perbarui Penghargaan"
+
+#~ msgid "View Honor"
+#~ msgstr "Lihat Penghargaan"
+
+#~ msgid "Search Honor"
+#~ msgstr "Cari Penghargaan"
+
+#~ msgid "Honor"
+#~ msgstr "Penghargaan"
+
+#~ msgid "Honor Image"
+#~ msgstr "Gambar Penghargaan"
+
+#~ msgid "Jobs"
+#~ msgstr "Pekerjaan"
+
+#~ msgid "Job"
+#~ msgstr "Pekerjaan"
+
+#~ msgid "Investor Relation"
+#~ msgstr "Relasi Investor"
+
+#~ msgid "Sales Network"
+#~ msgstr "Jaringan Penjualan"
+
+#~ msgid "Categories"
+#~ msgstr "Kategori"
+
+#~ msgid "Popular Product Categories"
+#~ msgstr "Kategori Produk populer"
+
+#~ msgid "Search Product Categories"
+#~ msgstr "Cari Kategori Produk"
+
+#~ msgid "Not Found"
+#~ msgstr "Tidak ditemukan"
+
+#~ msgid "3D Product Exhibition Hall"
+#~ msgstr "Ruang Pameran Produk 3D"
+
+#~ msgid "Sorry, no products in this category"
+#~ msgstr "Maaf, tidak ada produk dalam kategori ini"
+
+#~ msgid "Sorry, no application fields in this category"
+#~ msgstr "Maaf, tidak ada bidang aplikasi dalam kategori ini"
+
+#~ msgid "Job Search"
+#~ msgstr "Pencarian Pekerjaan"
+
+#~ msgid "Enter job keywords for related information"
+#~ msgstr "Masukkan kata kunci pekerjaan untuk informasi terkait"
+
+#~ msgid "Hot Jobs"
+#~ msgstr "Pekerjaan Baru"
+
+#~ msgid ""
+#~ "Search job information that you are interested. Click the following links."
+#~ msgstr "Cari informasi pekerjaan yang menarik bagi anda. Klik link berikut."
+
+#~ msgid "Sorry, no jobs available"
+#~ msgstr "Maaf, tidak ada pekerjaan yang tersedia"
+
+#~ msgid "News"
+#~ msgstr "Berita"
+
+#~ msgid "Back to list"
+#~ msgstr "Kembali ke rincian"
+
+#~ msgid "About Snowman"
+#~ msgstr "Tentang Snowman"
+
+#~ msgid "Investor Contacts"
+#~ msgstr "Kontak Investor"
+
+#~ msgid "Service & Support"
+#~ msgstr "Layanan & Bantuan"
+
+#~ msgid "Technology & Innovation"
+#~ msgstr "Teknologi & Inovasi"
+
+#~ msgid "Engineering Cases"
+#~ msgstr "Rekayasa Kasus"
